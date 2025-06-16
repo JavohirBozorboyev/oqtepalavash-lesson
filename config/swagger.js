@@ -9,7 +9,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: "https://api.maktabcrm.uz",
+      url: "https://oqtepalavash-lesson.onrender.com",
       description: "Production server",
     },
     {
